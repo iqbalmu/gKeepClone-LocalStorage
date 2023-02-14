@@ -1,6 +1,7 @@
 <template>
   <header>
-    <h1>Simple Google Keep Clone</h1>
+    <h1>Google Keep Clone</h1>
+    <p>Vue JS + LocalStorage</p>
   </header>
 </template>
 
@@ -13,6 +14,9 @@ export default {
 <style>
 header{
   height: 70px;
-  line-height: 70px;
+}
+h1{
+  font-size: 24px;
+  margin: 10px 0;
 }
 </style>
