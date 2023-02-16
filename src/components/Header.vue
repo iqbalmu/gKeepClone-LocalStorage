@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>Google Keep Clone</h1>
-    <p>Vue.JS + LocalStorage</p>
+    <p>Vue.JS + LocalStorage</p>    
   </header>
 </template>
 
