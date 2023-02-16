@@ -54,6 +54,7 @@ export default {
 
       this.setStorage(this.notes)
 
+      el.text.style.height = '50px'
       el.title.value = ''
       el.text.value = ''      
     },
